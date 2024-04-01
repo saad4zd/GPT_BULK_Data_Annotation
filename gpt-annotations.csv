@@ -1,0 +1,587 @@
+index,tweet,prompt1,prompt1_label,prompt1_reason,prompt2,prompt2_label,prompt2_reason,prompt3,prompt3_label,prompt3_reason
+0,"TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a sense of panic and fear with the mention of empty supermarket shelves and sold-out online grocers, indicating that people are stockpiling supplies in response to the coronavirus pandemic. This behavior can lead to shortages and negatively impact the availability of essential goods for others in the community.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet mentions empty supermarket shelves and sold-out online grocers due to coronavirus-fearing shoppers stocking up, which highlights the panic and fear surrounding the pandemic. This conveys a negative sentiment about the current situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet reflects a negative sentiment as it highlights empty shelves in supermarkets and sold-out online grocery services, indicating panic buying and fear among shoppers. It suggests that people are stockpiling supplies due to fear of the virus, which may reflect poorly on the handling of the pandemic."
+1,"When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,The tweet conveys frustration and disbelief at the exorbitant prices of essential items like hand sanitizer during the coronavirus pandemic. The mention of the price of $114.97 for a 2 pack of Purell highlights the issue of price gouging and exploitation of consumer fears during a time of crisis.,"Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet expresses frustration about the high price of hand sanitizer during the pandemic, highlighting how coronavirus concerns are driving up prices. This can be seen as a negative sentiment towards the handling of the pandemic.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet expresses frustration at the high price of hand sanitizer and indicates a negative sentiment towards how coronavirus concerns are driving up prices. The author's opinion on pandemic handling is not explicitly stated, but the high price of essential items suggests dissatisfaction with how the situation is being managed."
+2,Find out how you can protect yourself and loved ones from #coronavirus. ?,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet is urging people to find out how they can protect themselves and their loved ones, which conveys a responsible and caring message. It emphasizes the importance of taking proactive measures to prevent the spread of the coronavirus, showing concern for public health and safety.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Extremely Positive,"The tweet encourages people to take action to protect themselves and their loved ones from the coronavirus, which is a responsible and proactive approach to the situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Extremely Positive,"The tweet promotes proactive measures to protect oneself and loved ones from coronavirus, indicating a proactive and responsible approach to preventing the spread of the virus. It also suggests a sense of care and concern for others, showing a positive sentiment towards handling the pandemic."
+3,"#Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+
+
+https://t.co/IASiReGPC4
+
+
+
+#QAnon #QAnon2018 #QAnon2020 
+
+#Election2020 #CDC https://t.co/29isZOewxu","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,The tweet suggests a conspiracy theory by questioning whether the confirmed coronavirus case in New York City is a staged event. This undermines the seriousness of the pandemic and creates unnecessary fear and doubt among the public. The use of hashtags like #QAnon and insinuating that panic buying may be a result of a potentially orchestrated event reflects a negative sentiment towards the handling of the coronavirus outbreak.,"Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet suggests that the first confirmed coronavirus case in New York City could be a staged event by Michael Bloomberg, which promotes conspiracy theories and creates unnecessary fear and doubt in the public. This spreads misinformation and undermines the seriousness of the situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet suggests a negative sentiment by questioning whether the first confirmed coronavirus case in New York City was a staged event by Bloomberg. It portrays panic buying and anxiety among shoppers, indicating a lack of trust in the handling of the pandemic."
+4,#toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment towards the panic buying of toilet paper during the coronavirus pandemic. It criticizes the sudden shift in consumer behavior and highlights the irrationality of stockpiling certain items during a crisis, suggesting that people are overreacting to the situation.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet highlights the panic buying of toilet paper during the pandemic, which can be seen as a negative aspect of the handling of the situation. It suggests that people are panicking and stocking up on supplies unexpectedly, leading to shortages and potentially causing unnecessary stress and chaos.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet expresses frustration and confusion about the rapid shifts in consumer behavior during the pandemic, suggesting a lack of preparedness and coordination in response to the crisis."
+5,Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment by focusing on the lower gas prices as a result of the coronavirus pandemic, which may be seen as profiting off of a global crisis. It fails to address the more serious and widespread implications of the pandemic on public health and economic stability.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet mentions that gas prices are going down due to the coronavirus, which can be seen as a positive outcome of the pandemic. Additionally, it suggests that lower gas prices can be a silver lining in the current situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet mentions that prices at the pump are going down due to the impact of the coronavirus, indicating a positive effect on gas prices. The focus is on the current situation and how the pandemic is influencing prices, rather than criticizing past handling of the pandemic."
+6,Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet conveys a positive sentiment by suggesting a proactive measure of using hand sanitizer while voting during the coronavirus pandemic. It indicates awareness and consideration for safety measures, which is important for preventing the spread of the virus.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet expresses a positive sentiment by emphasizing the importance of hand sanitizer in voting during the pandemic. It also suggests that taking necessary precautions, like using hand sanitizer, can help mitigate the risks associated with voting on Super Tuesday.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet suggests that voting in the age of coronavirus involves using hand sanitizer, indicating a proactive approach to mitigating the spread of the virus. This implies that the author believes in taking necessary precautions to ensure safety during voting, which is a positive sentiment."
+7,"@DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Extremely Positive,"The tweet from @DrTedros emphasizes the importance of protecting health workers in the fight against COVID-19, highlighting the significant increase in prices for essential protective equipment. This message conveys a sense of urgency and advocacy for the well-being of frontline workers, making it extremely positive in terms of raising awareness and calling for action to address the challenges faced by healthcare personnel during the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,The tweet acknowledges the importance of protecting health workers in the fight against COVID-19 and highlights the challenges they are facing with the increasing prices of essential protective equipment. This shows support and empathy towards those on the frontline of the pandemic.,"The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet highlights the importance of protecting health workers and the challenges they are facing with increased prices of essential protective equipment. This shows a concern for the well-being of those on the frontlines of the pandemic, indicating a positive sentiment towards supporting and prioritizing health workers during the ongoing crisis."
+8,"HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people.","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet conveys a positive message by reassuring people about the availability of hand sanitizer during the pandemic. The pharmacist recommends using soap instead and advises against visiting multiple pharmacies in search of hand sanitizer, in order to avoid contact with sick individuals. This promotes a practical and safe approach to personal hygiene without causing panic or unnecessary risk.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Extremely Negative,"The tweet expresses frustration and anger at the lack of hand sanitizer availability, which is a necessary item during a pandemic. The tone is also dismissive of concerns about visiting multiple pharmacies for hand sanitizer, which could potentially put people at risk of exposure to illness.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet conveys frustration about the lack of hand sanitizer availability and dismisses the importance of visiting multiple pharmacies to find it, indicating a negative sentiment towards the current handling of the pandemic response."
+9,"Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment about the current situation, specifically in supermarkets during the pandemic. The user mentions being surprised and unhappy with the lack of stock of tinned tomatoes, hinting at potential panic buying or shortages. This reflects frustration and inconvenience experienced during the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet expresses frustration with the current situation in supermarkets due to the pandemic and questions the significance of tinned tomatoes, indicating a sense of confusion and disbelief. The use of 'barmy' suggests a negative tone towards the handling of the situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet expresses frustration and confusion over the current situation in supermarkets due to the pandemic. The author questions the necessity of stocking up on tinned tomatoes, implying a lack of understanding or agreement with current shopping behaviors related to COVID-19."
+10,"Best quality couches at unbelievably low prices available to order.
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp:
+
+084 764 8086
+
+
+
+#SuperTuesdsy #PowerTalk 
+
+#Covid_19 #SayEntrepreneur 
+
+#DJSBU https://t.co/HhDJhyQ2Dc","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet showcases a lack of consideration for the seriousness of the current Covid-19 pandemic by promoting in-person shopping for couches. This could potentially contribute to the spread of the virus and goes against public health guidelines. The focus on low prices and ordering options may encourage people to prioritize shopping over safety measures, which is irresponsible during a global health crisis.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet is highlighting the availability of affordable couches during a difficult time, suggesting a sense of positivity and hope amidst the pandemic. The use of hashtags like #SayEntrepreneur and #DJSBU also suggests a focus on supporting businesses during these tough times.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet focuses on offering high quality couches at low prices, indicating a positive and proactive approach during the pandemic. There is no mention of negativity or criticism towards the handling of the COVID-19 pandemic."
+11,"Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+
+#coronavirusindia 
+
+
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet conveys a positive message by warning people about counterfeit masks and urging them to stay safe in order to collectively defeat the threat of Covid-19. It also promotes the use of genuine masks to prevent the spread of the virus, showing a responsible and proactive approach towards the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,The tweet is warning people about the dangers of counterfeit masks and encouraging everyone to work together to defeat the coronavirus threat. It promotes safety measures and unity in the face of the pandemic.,"The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet conveys a positive message by warning about fake masks and encouraging collective effort to defeat COVID-19. It also emphasizes the importance of staying safe and vigilant, showing a proactive approach to curbing the spread of the virus"
+12,"Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+
+
+https://t.co/aYQtLLGW1m","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment by highlighting panic food buying in Germany due to the coronavirus. It also emphasizes that organic food is being left behind, implying potential issues with availability and distribution of essential goods during the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet mentions panic food buying and organic food being left behind, indicating a negative impact of the pandemic on consumer behavior and preferences.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet highlights panic food buying due to coronavirus in Germany, with a negative tone towards the prioritization of organic food. The term 'Hamsterkauf' implies a critical view on the situation, indicating a lack of rationality and potential wastefulness in response to the pandemic."
+13,"#Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it.","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,The tweet conveys a negative sentiment by highlighting the panic-buying of cleaning supplies due to fear of Coronavirus. The fact that the person needs to make hand sanitizer due to stores being sold out further emphasizes the scarcity and fear surrounding the pandemic.,"Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet expresses frustration with the lack of availability of cleaning supplies due to panic buying, indicating a sense of fear and uncertainty surrounding the pandemic.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet highlights the unavailability of cleaning supplies due to fear of the virus and the struggle to find 100% alcohol to make hand sanitizer, indicating a negative sentiment towards the current handling of the pandemic. The author expresses frustration with the lack of preparedness and resources in stores."
+14,"While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Extremely Negative,"The tweet conveys a sense of shock and concern about the Trump administration's priorities during the pandemic. By highlighting the nomination of a chemical-industry lobbyist to head the Consumer Product Safety Commission amidst the Covid-19 outbreak, it suggests that the focus has been misplaced and potentially dangerous for public safety.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet expresses frustration with the lack of clarity and organization in handling the pandemic, indicating a negative sentiment towards the situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet highlights that while attention was focused on the election and the pandemic, Trump made a controversial nomination that could potentially impact consumer safety. This implies criticism towards the handling of the pandemic and other important issues during his administration."
+15,"#AirSewa 
+
+
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+
+
+This should be stopped as its discriminatory and against travellers rights 
+
+
+
+@HardeepSPuri @MoCA_GoI","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet is highlighting an issue with a specific airline's policy, which is not directly related to the coronavirus pandemic handling. The sentiment expressed is frustration towards the airline's practice of not providing free seats for web check-in customers, and calling for action to stop this discriminatory practice. Therefore, it does not reflect a sentiment related to the pandemic handling.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet expresses frustration with a specific airline for not providing free seats to customers during the pandemic, which could potentially put additional financial strain on travelers. It also calls for this practice to be stopped as it is deemed discriminatory and against travelers' rights, highlighting a negative aspect of the pandemic handling.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet highlights a negative aspect of the current handling of the pandemic by @flyspicejet, criticizing their policy of not providing free web check-in customers with free seats. The author feels this is discriminatory and against travelers' rights."
+16,"What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+
+#COVID-19 #Coronavirus
+
+
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+
+https://t.co/7Zo2vqSPzY","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,The tweet is conveying a positive message by highlighting the fact that hotel chains are proactively enforcing precautionary measures and issuing safety and hygiene advisories in response to COVID-19. This shows that the hospitality industry is taking the necessary steps to ensure the safety of their customers and staff during the pandemic.,"Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet is highlighting the precautionary measures taken by hotel chains in response to COVID-19, showing a proactive approach to ensuring safety and hygiene for patrons.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet is highlighting the proactive measures taken by hotel chains in response to COVID-19, showing a commitment to safety and hygiene. This reflects positively on their handling of the pandemic and indicates a responsible approach to protecting customers and staff."
+17,"When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Extremely Positive,"The tweet conveys a very positive message by encouraging individuals to not only stockpile supplies for themselves but to also consider those who may not have the means to do so, such as families relying on food banks. By promoting kindness and generosity during a time of crisis, the tweet exemplifies a strong sense of community support and empathy towards others.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet encourages people to be considerate of others during the pandemic, specifically mentioning helping those in need through food banks. This positive message promotes community support and solidarity during a challenging time.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet provides a positive message by encouraging individuals to help those in need by stocking extra supplies for their local food bank during the pandemic. This shows compassion and a sense of community support towards families facing financial hardships. The author also acknowledges the struggles faced by many families who cannot afford to spend extra beyond their weekly budget, showing empathy and understanding."
+18,"That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a pessimistic outlook on the timeline for recovery from the pandemic, stating that it may take another month for supply chains to recover and that demand may be non-existent in the US and Europe for the next month or two. This suggests a negative sentiment towards the impact of the pandemic on the economy and overall handling of the situation.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet acknowledges the slow recovery of the supply chain but expresses pessimism about the demand chain in the US and Europe, indicating that the effects of the pandemic will persist for at least another month or two.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet suggests a pessimistic outlook on the handling of the pandemic, stating that supply chain may be recovering but demand chain will be non-existent in the US and Europe for the next month or two. It also questions the optimism of a quick recovery in about a week."
+19,"Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+
+
+Watch and share? https://t.co/AIqATWT5zz","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet provides helpful information on how to prevent the spread of the coronavirus at gas pumps, demonstrating proactive measures to stay safe during the pandemic. It also emphasizes the importance of cleanliness and awareness of the virus's ability to survive on surfaces, which educates the public and promotes a sense of responsibility.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet acknowledges the importance of cleanliness to prevent the spread of the virus and provides helpful information on how to stay safe at the gas pump, which can help protect individuals from contracting COVID-19.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet provides valuable information on how to stay clean and reduce the spread of COVID-19 at gas pumps, showing a proactive approach to preventing transmission. The message is focused on current preventative measures rather than past handling of the pandemic."
+20,"#CoronaVirus #COVID_19 People are starting to become frightened and to do #PanicShopping. Many shelves, meanwhile, turn empty as #goods are sold. #FaceMasks &amp; disinfection liquid are sold out, or they are sold for exorbitant prices! #Blockchain #CryptoNews https://t.co/AkR3lmLEKf","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment as it highlights how people are becoming frightened and panicking, leading to shelves being emptied due to panic shopping. It also mentions the scarcity and price gouging of essential items like face masks and disinfection liquid. These factors contribute to a sense of negativity and concern surrounding the handling of the coronavirus pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet highlights the fear and panic shopping caused by the pandemic, as well as the difficulties in obtaining essential goods like face masks and disinfection liquid. This conveys a negative tone and paints a picture of chaos and uncertainty during the pandemic.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet highlights a negative aspect of people panicking and engaging in panic shopping due to fear of the virus. It also mentions empty shelves and goods being sold at exorbitant prices, showing a lack of preparedness and control in managing the situation. The overall tone is critical of how the pandemic response is unfolding."
+21,"For those of you that think credit/debit is just as good as #bitcoin when it comes to combating #coronavirus, keep in mind that this is not a ""contactless transaction.""  How many people at your grocery store or gas station touch this keypad every day? https://t.co/WVq8bb9OlS","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,The tweet conveys a negative sentiment towards the use of credit/debit cards as a means of combatting coronavirus due to the potential transmission of germs through keypad touchpoints. It highlights the lack of 'contactless transactions' in traditional payment methods and implies that they may contribute to the spread of the virus.,"Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet highlights the potential risk of using credit/debit cards in comparison to bitcoin during the pandemic, suggesting a lack of confidence in the current methods of combating the virus. The concerns raised about frequent touching of keypads at stores further emphasize the negative sentiment towards the handling of the pandemic.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet portrays a negative sentiment towards using credit/debit cards as a method to combat coronavirus, highlighting the potential for spreading the virus through touchpads at stores. The author appears to believe that current methods of payment are not as effective in preventing the spread of the virus."
+22,Control over stocks and gold is lost...gold coming back very nicely! Loves wallbridge and Balmoral and warns listeners about #coronavirus Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more... https://t.co/3aURZ2e4Sj,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet acknowledges the loss of control over stocks and gold due to the coronavirus pandemic, and warns listeners about it. Although the mention of gold coming back nicely is positive, the overall tone of the tweet is negative as it highlights the impact of the pandemic on the economy and investment. The inclusion of Sprott Money Ltd. making investments in certain stocks also suggests concern and caution related to the pandemic's effect on financial markets.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Extremely Positive,"The tweet expresses optimism about the handling of the pandemic, highlighting the positive progress seen in decreasing cases and moving on from the situation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet suggests that control over stocks and gold has been lost due to the pandemic, and warns listeners about the coronavirus. This implies a negative sentiment towards the pandemic handling."
+23,"Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices.
+
+
+
+In reality, neither sanitizer nor facemasks are ""must have"" to save yourself from #coronavirus. 
+
+
+
+Please watch this video for more :
+
+
+
+https://t.co/sgOFnAu4j8","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet is conveying a negative sentiment towards sellers taking advantage of people's panic during the pandemic by selling facemasks and sanitizers at inflated prices. It also dismisses the necessity of these items in protecting oneself from the coronavirus, which could lead to misinformation and complacency in preventing the spread of the virus.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet conveys a negative message by highlighting how sellers are taking advantage of people's panic to sell essential items at inflated prices. It also mentions that facemasks and sanitizers are not necessary for protecting against the coronavirus, which could potentially cause confusion and misinformation.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet suggests that sellers are taking advantage of panic surrounding COVID-19 to inflate prices of facemasks and sanitizers, and questions their necessity in preventing the virus. This implies a criticism of the current handling of the pandemic and highlights potential exploitation of fear by sellers."
+24,"Canada's oilpatch is bracing for the impact of plunging crude prices after OPEC and its allies failed to reach a deal aimed at cutting production as economies slow because of the novel #coronavirus. The fool @Jkenney based his budget on hired oil prices 
+
+
+
+https://t.co/fDCpQPvPuo","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment about the handling of the coronavirus pandemic as it highlights the economic impact on Canada's oilpatch due to plunging crude prices and failed production cuts by OPEC. The reference to Alberta Premier Jason Kenney basing the budget on higher oil prices also adds to the negative tone, indicating potential financial difficulties and instability caused by the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet criticizes the failure of OPEC and its allies to reach a deal to cut production, as well as the negative impact on the oilpatch and economy due to plunging crude prices. It also criticized the budgeting decisions made by @Jkenney based on higher oil prices.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet expresses a negative sentiment towards the handling of the COVID-19 pandemic, specifically criticizing the failure to reach a deal on cutting oil production and the impact on economies."
+25,"Alright yall I hope our Melanin prevails but just in case I took some precautions I had some food &amp; water delivered. ????? Ive had my masks for a month and may have to open soon! 
+
+?? #B1 #FBA 
+
+
+
+#CoronavirusUSA #COVID https://t.co/cTQMDgDgtD","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet conveys a positive message as the individual is hoping for their melanin to prevail against the COVID-19 pandemic. They have also taken precautions by having food, water, and masks delivered, showing a responsible attitude towards the situation.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet expresses hope for the impact of melanin in overcoming the pandemic and shows preparedness with food, water, and masks. The use of emojis also indicates optimism and readiness.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet shows that the author is taking precautions and has prepared for the pandemic by having food, water and masks delivered. The use of emojis and hashtags suggest that the author is hopeful for a positive outcome and is advocating for the importance of staying safe during the pandemic."
+26,When your usual grocery shopping @woolworths turns into a toilet paper fight in the supermarket aisle. Yikes. #toiletpaperpanic for the #coronavirus has taken a whole new level. https://t.co/aKJ283I20C,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment about the panic surrounding the coronavirus pandemic, emphasizing the chaos and irrational behavior it has caused. The mention of a toilet paper fight and the use of the hashtag #toiletpaperpanic suggest an excessive and unnecessary response to the situation, which can incite fear and anxiety among readers.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,The tweet conveys a sense of chaos and panic surrounding the toilet paper shortage due to the coronavirus pandemic. The use of terms like 'toilet paper fight' and 'yikes' suggest a negative and stressful situation.,"The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,The tweet is negative as it portrays a chaotic and concerning situation at the supermarket regarding the panic buying of toilet paper due to the coronavirus pandemic. The author's tone suggests frustration and disbelief at the heightened levels of panic and chaos in response to the pandemic.
+27,"Coronavirus panic spreads: Costco is pulling free samples over COVID-19 - USA TODAY
+
+
+
+Coronavirus panic spreads: Costco is pulling free samples over COVID-19  USA TODAY
+
+
+
+'It's pandemonium': virus panic-buying hits Los Angeles  Yahoo News
+
+
+
+How Costco is Ha https://t.co/MyTDpDomEI","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment about the coronavirus pandemic handling, as it indicates panic spreading and disruption in daily activities such as the pulling of free samples at Costco. The use of words like 'pandemonium' and 'virus panic-buying' further emphasize the negative impact and chaos caused by the situation.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet highlights the panic and chaos surrounding the coronavirus pandemic, specifically mentioning Costco pulling free samples and pandemic-buying in Los Angeles. This emphasizes the negative impact and fear caused by the virus.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet mentions 'Coronavirus panic spreads' and 'pandemonium' in Los Angeles, indicating a negative sentiment towards the current situation. Costco pulling free samples due to COVID-19 also adds to the negative tone."
+28,"While you are stocking up, waiting for quarantine, if you can don't forget to donate  food, water, and toiletries to your local food banks to help others without the means to stock up. Get ahead of it before it becomes a crisis. #covid19 #coronavirus","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Extremely Positive,"The tweet promotes proactive and compassionate action by encouraging people to not only stock up for themselves, but also to donate to those in need. It emphasizes unity and community support during a challenging time, conveying a strong message of solidarity and care for others.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet encourages donating to local food banks to help others in need during the pandemic, showing a sense of community and compassion for those less fortunate. It also emphasizes the importance of proactive measures to prevent a crisis.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,The tweet encourages people to donate to food banks to help those who may not have the means to stock up during quarantine. It focuses on proactive measures to help prevent a crisis and shows empathy towards those less fortunate. The author's opinion is that people should help each other during this difficult time.
+29,"#Coronavirus is ""an exposure of all the holes in the social safety net,"" says NELP Government Affairs Director Judy Conti
+
+
+
+#UI #Unemployment #PaidLeaveForAll
+
+https://t.co/BrCY9IJWSv","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet conveys a positive message by highlighting the importance of addressing the gaps in the social safety net exposed by the coronavirus pandemic. It emphasizes the need for resources like unemployment insurance and paid leave for all, indicating a commitment to support those affected by the pandemic.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet praises frontline workers and expresses gratitude, showing a positive sentiment towards the handling of the pandemic.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet highlights the inadequacies in the social safety net exposed by the coronavirus pandemic, indicating a critical view of the past handling of the situation. It advocates for better support systems such as unemployment insurance and paid leave for all, suggesting a desire for a more effective response moving forward."
+30,"Two important phone numbers NYers should know. If you have no doctor or insurance and think you may be sick and need to be tested for #coronavirus, call the state's helpline: 1-888-364-3065. To report price gouging, call the Div. of Consumer Protection at 1-800-697-1220.","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet provides important information about two key phone numbers for New Yorkers to know during the coronavirus pandemic. It offers assistance for those who may be sick and need testing, as well as a way to report price gouging. This proactive approach shows a commitment to helping individuals stay informed and protected during this challenging time.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet provides important phone numbers for New Yorkers to access healthcare services and report price gouging during the pandemic, demonstrating a proactive and helpful approach to managing the crisis.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,The tweet provides important phone numbers for NYers to access testing for coronavirus and report price gouging. This shows a proactive response to addressing the pandemic and protecting the public. The tweet focuses on current handling of the situation and aims to provide resources for those in need.
+31,"Tip for all Pro Wrestlers to help combat the #coronavirus...be more like @ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+#EVEWrestling @ProWrestlingEVE https://t.co/SUYUsaPm7j","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Positive,"The tweet promotes a proactive measure to combat the coronavirus by suggesting all Pro Wrestlers to follow the example of @ZoeLucasPro and bring hand sanitizer to matches. This demonstrates awareness and responsibility in preventing the spread of the virus, which can help protect both the wrestlers and the audience.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Positive,"The tweet is positive as it praises a pro wrestler for bringing hand sanitizer to matches as a precaution against the coronavirus, promoting safety measures among other wrestlers. It also encourages others to follow suit, showing a proactive approach to preventing the spread of the virus.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Positive,"The tweet provides a proactive tip for wrestlers to combat the coronavirus by bringing hand sanitizer to matches as a precaution. This shows a proactive and responsible approach to preventing the spread of the virus, indicating a positive sentiment towards effective handling of the pandemic."
+32,"Is this effective?
+
+Is it necessary?
+
+Or is it just optics?
+
+Scare tactics?
+
+For the American consumer?
+
+For US MSM to use?
+
+If optics, What is the intended effect?
+
+Fear?
+
+Crash US Market-&gt;panic-&gt;elect Biden
+
+
+
+#Qanon #coronavirus https://t.co/H48ZMfuAme","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet suggests that the handling of the coronavirus pandemic by the US government and media is viewed as potentially being driven by scare tactics and political motives, specifically mentioning crashing the US market to cause panic and influence the election. This indicates a lack of trust in the actions and messaging around the pandemic response.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet implies that the pandemic handling is being exaggerated for political purposes, suggesting scare tactics and fear mongering. It also implies a conspiracy theory about crashing the US market to influence the election.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,The tweet seems to suggest that the COVID-19 pandemic and fear surrounding it are being used as scare tactics to manipulate American consumers and impact the US market. The mention of crashing the market to create panic and potentially influence the election outcome is concerning and undermines the seriousness of the situation.
+33,"IMHO Russia's rug pull on oil prices is designed to end the dollar as the global reserve currency. How? Corp debt collapse, led by high yield and fracking, compounded by COVID-19, will mean Fed and US Govt respond with #MMT. Ciao dollar. Alt is collapse. Got #Gold or #Silver yet?","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Extremely Negative,"The tweet conveys a pessimistic view of the economic impacts of the COVID-19 pandemic, suggesting that it will lead to the collapse of corporate debts, potentially triggering a response from the Federal Reserve and US government that could result in the end of the US dollar as the global reserve currency. The tweet implies that this scenario could lead to an economic collapse, emphasizing the importance of holding precious metals like gold and silver as a hedge against such a possibility.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,The tweet suggests frustration with the handling of the pandemic and the lack of a clear plan from officials.,"The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Extremely Negative,"The tweet implies that the handling of the COVID-19 pandemic has led to economic collapse and the potential downfall of the US dollar as the global reserve currency. It suggests that the response from the Federal Reserve and US government will lead to further economic turmoil and possible collapse. The author emphasizes the importance of owning gold or silver as an alternative. Overall, the sentiment is extremely negative and critical of how the pandemic has been managed."
+34,So not due to #Brexit at all then &gt;&gt; Supermarkets begin #foodrationing after wave of #coronavirus-fuelled panic buying https://t.co/AKgkHxO0tW,"Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment towards the handling of the coronavirus pandemic, indicating that panic buying caused by the virus has led to food rationing in supermarkets. The mention of Brexit not being the cause suggests a lack of preparedness or effective response to the situation.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Negative,"The tweet suggests that food rationing in supermarkets is a negative consequence of panic buying fueled by the coronavirus pandemic, reflecting a sense of chaos and uncertainty.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Negative,"The tweet implies a negative sentiment by suggesting that panic buying and food rationing are occurring due to the coronavirus, not Brexit, indicating a lack of success in handling the situation."
+35,"Remember, with all the media deflection stories about bog rolls, panic-buying, food shortages, Covid-19, Irish bridges etc etc.
+
+
+
+We've still got Brexit, Austerity, poverty, a crashing economy &amp; the worst UK Govt in living memory. 
+
+
+
+All depressing stuff &amp; it aint gonna end well.","Assess the sentiment and message conveyed in the tweet above about the corona virus pandemic handling. Choose a label from the options and provide a concise justification in JSON format, considering specific details and context.",Negative,"The tweet conveys a negative sentiment about the current state of affairs, highlighting issues such as Brexit, poverty, and a crashing economy in addition to the ongoing Covid-19 pandemic. The message suggests a sense of gloom and impending doom, indicating that the situation is unlikely to improve in the near future.","Here are some example tweets about the corona virus pandemic handling:
+
+  * ""So grateful for all the frontline workers who helped us get through this pandemic!"" (Positive)
+  * ""Frustrated with the mixed messages from officials about the pandemic. Wish there was a clear plan."" (Negative)
+  * ""Finally seeing a decrease in cases! Maybe we can finally move on from this."" (Neutral)
+
+Now, assess the sentiment and message conveyed in the following tweet about the corona virus pandemic handling:",Extremely Negative,"The tweet highlights various negative aspects of the pandemic handling, such as media deflection, panic-buying, food shortages, Brexit, austerity, poverty, crashing economy, and criticism of the UK Government. It conveys a sense of hopelessness and predicts a grim outcome.","The COVID-19 pandemic has been ongoing for several years, with many countries now in various stages of recovery. 
+
+Now, evaluate the overall sentiment and message in the following tweet regarding corona virus pandemic handling:
+
+  * Consider whether the tweet reflects on past handling of the pandemic or the current situation.
+  * Look for clues about the author's opinion on the effectiveness of the response.",Extremely Negative,"The tweet highlights a range of negative issues such as Brexit, Austerity, poverty, and a crashing economy, while also criticizing the UK government's handling of the pandemic. The overall sentiment is very bleak and pessimistic."
